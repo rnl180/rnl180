@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+  <style>
+    .tile,.hd{opacity:0;animation:in .7s ease-out forwards}
+    @keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+  </style>
+  <rect x="1" y="1" width="1198" height="328" rx="16" fill="#FFFBF3" stroke="#E9DCC6" stroke-width="2"/>
+  <g class="hd" style="animation-delay:.1s">
+    <rect x="70" y="46" width="44" height="26" rx="13" fill="#006C35"/>
+    <text x="92" y="64" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="800" letter-spacing="1" fill="#FFFFFF">KSA</text>
+    <text x="126" y="70" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="28" font-weight="800" fill="#2B2118">Saudi founder from Jeddah, running <tspan fill="#C4532D">Masar</tspan>.</text>
+    <text x="70" y="104" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" fill="#7A6550">Building SaaS &amp; custom systems for Saudi Arabia and the Gulf · shipping software since I was 13.</text>
+  </g>
+  
+  <g class="tile" style="animation-delay:0.30s">
+    <rect x="70" y="140" width="255" height="150" rx="14" fill="#F6EEDF" stroke="#E9DCC6"/>
+    <rect x="90" y="160" width="44" height="44" rx="12" fill="#C4532D"/>
+    <g transform="translate(92 162) scale(0.83)"><path d="M6 40 h36 M10 40 V22 l14 -10 l14 10 V40 M19 40 v-10 h10 v10" fill="none" stroke="#FFFBF3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <text x="146" y="187" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="800" letter-spacing="2.5" fill="#C4532D">BUILDING</text>
+    <text x="90" y="240" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="800" fill="#2B2118">Vertical SaaS</text>
+    <text x="90" y="266" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#7A6550">Quran circles · farms · restaurants</text>
+  </g>
+  <g class="tile" style="animation-delay:0.45s">
+    <rect x="345" y="140" width="255" height="150" rx="14" fill="#F6EEDF" stroke="#E9DCC6"/>
+    <rect x="365" y="160" width="44" height="44" rx="12" fill="#6E7B4F"/>
+    <g transform="translate(367 162) scale(0.83)"><circle cx="24" cy="24" r="15" fill="none" stroke="#FFFBF3" stroke-width="3"/><circle cx="24" cy="24" r="7" fill="none" stroke="#FFFBF3" stroke-width="3"/><circle cx="24" cy="24" r="2" fill="#FFFBF3"/></g>
+    <text x="421" y="187" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="800" letter-spacing="2.5" fill="#6E7B4F">FOCUS</text>
+    <text x="365" y="240" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="800" fill="#2B2118">Real workflows</text>
+    <text x="365" y="266" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#7A6550">turned into simple products</text>
+  </g>
+  <g class="tile" style="animation-delay:0.60s">
+    <rect x="620" y="140" width="255" height="150" rx="14" fill="#F6EEDF" stroke="#E9DCC6"/>
+    <rect x="640" y="160" width="44" height="44" rx="12" fill="#9A4A2C"/>
+    <g transform="translate(642 162) scale(0.83)"><path d="M4 20 L24 11 L44 20 L24 29 Z M12 24 v9 c0 4 24 4 24 0 v-9 M44 20 v11" fill="none" stroke="#FFFBF3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <text x="696" y="187" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="800" letter-spacing="2.5" fill="#9A4A2C">STUDYING</text>
+    <text x="640" y="240" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="800" fill="#2B2118">Software Engineering</text>
+    <text x="640" y="266" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#7A6550">Taylor's University · 2027</text>
+  </g>
+  <g class="tile" style="animation-delay:0.75s">
+    <rect x="895" y="140" width="255" height="150" rx="14" fill="#F6EEDF" stroke="#E9DCC6"/>
+    <rect x="915" y="160" width="44" height="44" rx="12" fill="#B07A3A"/>
+    <g transform="translate(917 162) scale(0.83)"><path d="M20 10 H10 a4 4 0 0 0 -4 4 v24 a4 4 0 0 0 4 4 h24 a4 4 0 0 0 4 -4 V28 M26 6 h16 v16 M42 6 L22 26" fill="none" stroke="#FFFBF3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <text x="971" y="187" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="800" letter-spacing="2.5" fill="#B07A3A">OPEN TO</text>
+    <text x="915" y="240" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="800" fill="#2B2118">Internships in KL</text>
+    <text x="915" y="266" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#7A6550">&amp; SaaS partners in Saudi</text>
+  </g>
+</svg>

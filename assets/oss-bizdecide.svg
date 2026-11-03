@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="220" viewBox="0 0 390 220">
+  <style>.in{opacity:0;animation:in .7s ease-out .15s forwards}@keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}</style>
+  <rect x="1" y="1" width="388" height="218" rx="16" fill="#FFFBF3" stroke="#E9DCC6" stroke-width="2"/>
+  <g class="in">
+    <path d="M28 30 h8 a3 3 0 0 1 3 3 v18 h-8 a3 3 0 0 1 -3 -3 Z M39 33 a3 3 0 0 1 3 -3 h8 v18 a3 3 0 0 1 -3 3 h-8" fill="none" stroke="#C4532D" stroke-width="2.4" stroke-linejoin="round"/>
+    <text x="62" y="49" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="800" fill="#2B2118">BizDecide</text>
+    <text x="28" y="96" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#2B2118">AI CFO for SMEs in Malaysia &amp;</text><text x="28" y="118" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#2B2118">Singapore, built at the AI Hackerdorm</text><text x="28" y="140" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#2B2118">hackathon.</text>
+    <circle cx="278" cy="40" r="6" fill="#3178C6"/>
+    <text x="290" y="45" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#7A6550">TypeScript</text>
+    <rect x="28" y="172" width="72" height="24" rx="12" fill="#F6EEDF" stroke="#E9DCC6"/><text x="64" y="188" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#7A6550">Next.js</text><rect x="106.80000000000001" y="172" width="42" height="24" rx="12" fill="#F6EEDF" stroke="#E9DCC6"/><text x="128" y="188" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#7A6550">MCP</text><rect x="156.0" y="172" width="94" height="24" rx="12" fill="#F6EEDF" stroke="#E9DCC6"/><text x="203" y="188" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#7A6550">Claude API</text>
+  </g>
+</svg>
