@@ -8,16 +8,7 @@
   <img src="https://img.shields.io/badge/Based%20in%20Kuala%20Lumpur-FFFBF3?style=flat-square&logo=googlemaps&logoColor=C4532D" alt="Based in Kuala Lumpur"/>
 </p>
 
-### 👋 About me
-
-I'm Ahmad, a **Saudi founder and software engineer** from Jeddah. I run **[Masar Software Solutions](https://masarsoftware.com)**, where my team and I build vertical SaaS products and custom systems for businesses in Saudi Arabia and the Gulf. I'm also a **Software Engineering student at Taylor's University** in Malaysia.
-
-I've been shipping software since I was 13, starting with Shopify, WordPress and Salla stores for clients and growing into full-stack products with real users.
-
-- 🏗️ **Building:** Quran-circle management, livestock farm management, restaurant reservations and nonprofit finance, all under Masar
-- 🧭 **Focus:** turning messy real-world workflows into simple products people actually use
-- 🎓 **Studying:** Software Engineering @ Taylor's University (2024 – 2027)
-- 🤝 **Open to:** product / engineering internships in KL & Selangor, and SaaS collaborations in Saudi Arabia
+<img src="assets/about.svg" width="100%" alt="Saudi founder from Jeddah, running Masar. Building vertical SaaS; focus on real workflows; studying Software Engineering at Taylor's University; open to internships in KL and SaaS partners in Saudi."/>
 
 ### 🧩 Products we built at Masar
 
@@ -50,13 +41,11 @@ I've been shipping software since I was 13, starting with Shopify, WordPress and
 
 ### 📌 Open-source projects
 
-| Project | What it is | Built with |
-|---|---|---|
-| **[BizDecide](https://github.com/rnl180/bizdecide)** | AI decision assistant ("AI CFO") for SMEs in Malaysia & Singapore, built at the AI Hackerdorm hackathon | Next.js · TypeScript · MCP |
-| **[Ringgit Runway](https://github.com/rnl180/ringgit-runway)** | Student money tracker that makes your monthly allowance last the whole month | Flutter · PostgreSQL |
-| **[Password Generator Pro](https://github.com/rnl180/password-generator-pro)** | Desktop app for strong / mnemonic passwords with leak checking | Python · customtkinter |
-
-> Most of my day-to-day work lives in private repos under Masar. Happy to walk through it on a call.
+<p align="center">
+  <a href="https://github.com/rnl180/bizdecide"><img src="assets/oss-bizdecide.svg" width="32.5%" alt="BizDecide"/></a>
+  <a href="https://github.com/rnl180/ringgit-runway"><img src="assets/oss-ringgit.svg" width="32.5%" alt="Ringgit Runway"/></a>
+  <a href="https://github.com/rnl180/password-generator-pro"><img src="assets/oss-passgen.svg" width="32.5%" alt="Password Generator Pro"/></a>
+</p>
 
 ### 📈 Activity
 
