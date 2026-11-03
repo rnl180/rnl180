@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
+  <style>
+    .ln{stroke-dasharray:970;stroke-dashoffset:970;animation:dr 2.4s ease-out .2s forwards}
+    @keyframes dr{to{stroke-dashoffset:0}}
+    .n{opacity:0;animation:pop .6s ease-out forwards}
+    @keyframes pop{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+    .ring{transform-box:fill-box;transform-origin:center;animation:rg 2s ease-out 3s infinite}
+    @keyframes rg{from{transform:scale(1);opacity:.8}to{transform:scale(2.4);opacity:0}}
+  </style>
+  <rect x="1" y="1" width="1198" height="248" rx="16" fill="#FFFBF3" stroke="#E9DCC6" stroke-width="2"/>
+  <line x1="115" y1="118" x2="1085" y2="118" stroke="#E9DCC6" stroke-width="6" stroke-linecap="round"/>
+  <line class="ln" x1="115" y1="118" x2="1085" y2="118" stroke="#D9A066" stroke-width="6" stroke-linecap="round"/>
+  
+  <g class="n" style="animation-delay:0.40s">
+    <text x="115" y="84" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="20" font-weight="700" fill="#7A6550">2019</text>
+    <circle cx="115" cy="118" r="10" fill="#FFFBF3" stroke="#C4532D" stroke-width="4"/>
+    
+    <text x="115" y="162" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15.5" font-weight="700" fill="#2B2118">First client sites</text>
+    <text x="115" y="184" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#7A6550">Shopify &amp; WordPress, age 13</text>
+  </g>
+  <g class="n" style="animation-delay:0.75s">
+    <text x="309" y="84" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="20" font-weight="700" fill="#7A6550">2020</text>
+    <circle cx="309" cy="118" r="10" fill="#FFFBF3" stroke="#C4532D" stroke-width="4"/>
+    
+    <text x="309" y="162" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15.5" font-weight="700" fill="#2B2118">Freelance Salla dev</text>
+    <text x="309" y="184" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#7A6550">Stores for Saudi brands</text>
+  </g>
+  <g class="n" style="animation-delay:1.10s">
+    <text x="503" y="84" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="20" font-weight="700" fill="#7A6550">2022</text>
+    <circle cx="503" cy="118" r="10" fill="#FFFBF3" stroke="#C4532D" stroke-width="4"/>
+    
+    <text x="503" y="162" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15.5" font-weight="700" fill="#2B2118">Al-Haik Al-Arabi Group</text>
+    <text x="503" y="184" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#7A6550">E-commerce &amp; software dev</text>
+  </g>
+  <g class="n" style="animation-delay:1.45s">
+    <text x="697" y="84" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="20" font-weight="700" fill="#7A6550">2024</text>
+    <circle cx="697" cy="118" r="10" fill="#FFFBF3" stroke="#C4532D" stroke-width="4"/>
+    
+    <text x="697" y="162" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15.5" font-weight="700" fill="#2B2118">Taylor's University</text>
+    <text x="697" y="184" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#7A6550">Software Engineering, KL</text>
+  </g>
+  <g class="n" style="animation-delay:1.80s">
+    <text x="891" y="84" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="20" font-weight="700" fill="#7A6550">2025</text>
+    <circle cx="891" cy="118" r="10" fill="#FFFBF3" stroke="#C4532D" stroke-width="4"/>
+    
+    <text x="891" y="162" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15.5" font-weight="700" fill="#2B2118">Al-Faz'a for Meats</text>
+    <text x="891" y="184" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#7A6550">Software engineer (remote)</text>
+  </g>
+  <g class="n" style="animation-delay:2.15s">
+    <text x="1085" y="84" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="20" font-weight="700" fill="#C4532D">2026</text>
+    <circle cx="1085" cy="118" r="13" fill="#C4532D" stroke="#C4532D" stroke-width="4"/>
+    <circle class="ring" cx="1085" cy="118" r="13" fill="none" stroke="#C4532D" stroke-width="3"/>
+    <text x="1085" y="162" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15.5" font-weight="700" fill="#2B2118">Founded Masar</text>
+    <text x="1085" y="184" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#7A6550">SaaS for Saudi Arabia</text>
+  </g>
+</svg>
